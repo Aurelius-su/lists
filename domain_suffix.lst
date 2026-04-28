@@ -15,6 +15,14 @@ api.github.com
 githubcopilot.com
 copilot-proxy.githubusercontent.com
 
+# VS Code extensions
+#marketplace.visualstudio.com
+#visualstudio.com                   # API marketplace
+#vsassets.io                        # downloads
+#azureedge.net                      # CDN Microsoft
+#blob.core.windows.net              # storage
+#msecnd.net                         # CDN Microsoft
+
 # YouTube
 ggpht.com
 googleusercontent.com
@@ -29,17 +37,17 @@ ytimg.com
 # gstatic.com
 # 1e100.net
 
-# WhatsApp
-whatsapp.com
-whatsapp.net
-whatsapp.biz
-wa.me
-
 # warez
 habr.com
 rsload.net
 rutracker.org
 truthsocial.com
+
+# WhatsApp
+whatsapp.com
+whatsapp.net
+whatsapp.biz
+wa.me
 
 # Blocked for Russia
 bell-sw.com
