@@ -48,6 +48,7 @@ whatsapp.com
 whatsapp.net
 whatsapp.biz
 wa.me
+mtalk.google.com    # Google Push, FCM persistent socket, TCP 5228/5230 
 
 # Blocked for Russia
 bell-sw.com
