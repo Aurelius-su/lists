@@ -1,3 +1,4 @@
+[domain_suffix]
 # AI
 chatgpt.com
 openai.com
@@ -22,20 +23,6 @@ copilot-proxy.githubusercontent.com
 #azureedge.net                      # CDN Microsoft
 #blob.core.windows.net              # storage
 #msecnd.net                         # CDN Microsoft
-
-# YouTube
-ggpht.com
-googleusercontent.com
-googlevideo.com
-l.google.com
-nhacmp3youtube.com
-play.google.com
-youtu.be
-youtube.com
-youtubei.googleapis.com
-ytimg.com
-# gstatic.com
-# 1e100.net
 
 # warez
 habr.com
