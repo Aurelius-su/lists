@@ -27,6 +27,7 @@ copilot-proxy.githubusercontent.com
 # warez
 habr.com
 rsload.net
+ru-board.com
 rutracker.org
 truthsocial.com
 
@@ -35,16 +36,18 @@ whatsapp.com
 whatsapp.net
 whatsapp.biz
 wa.me
-mtalk.google.com    # Google Push, FCM persistent socket, TCP 5228/5230 
+mtalk.google.com        # Google Push, FCM persistent socket, TCP 5228/5230 
 
 # Blocked for Russia
 bell-sw.com
+dnb.com                 # D-U-N-S
 speedtest.net
-moldstud.com  # Accessible Design and Development
+
 
 # other
-#dnb.com # DUNS
 dnsleaktest.com
 flathub.org
 giters.com
+
+# Религия
 jw.org
