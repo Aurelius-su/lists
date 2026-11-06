@@ -38,14 +38,21 @@ whatsapp.biz
 wa.me
 mtalk.google.com        # Google Push, FCM persistent socket, TCP 5228/5230 
 
+# winget
+#bell-sw.com
+#downloads.getfiddler.com
+#updates.signal.org
+#zoom.us
+
 # Blocked for Russia
-bell-sw.com
 dnb.com                 # D-U-N-S
+
+# tests
+browserleaks.com
+dnsleaktest.com
 speedtest.net
 
-
 # other
-dnsleaktest.com
 flathub.org
 giters.com
 
