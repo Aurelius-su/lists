@@ -26,7 +26,7 @@ copilot-proxy.githubusercontent.com
 #msecnd.net                         # CDN Microsoft
 
 # warez
-habr.com
+#habr.com
 #rsload.net
 ru-board.com
 rutracker.org
@@ -48,7 +48,13 @@ mtalk.google.com        # Google Push, FCM persistent socket, TCP 5228/5230
 # Blocked for Russia
 dnb.com                 # D-U-N-S
 losst.pro
+portainer.io			# docker
 startpage.com
+resend.com				# eMail
+torproject.org
+
+# ubuntu updates
+#ubuntu.com
 
 # tests
 browserleaks.com
