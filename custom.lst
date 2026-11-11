@@ -26,7 +26,7 @@ copilot-proxy.githubusercontent.com
 #msecnd.net                         # CDN Microsoft
 
 # warez
-#habr.com
+##habr.com
 #rsload.net
 ru-board.com
 rutracker.org
@@ -50,6 +50,10 @@ dnb.com                 # D-U-N-S
 losst.pro
 portainer.io			# docker
 startpage.com
+torproject.org
+
+# ubuntu updates
+#ubuntu.com
 resend.com				# eMail
 torproject.org
 
